@@ -1,2 +1,2 @@
 # NIIT
-About some homework in NIIT Training Center(Haian, Nantong City, Jiangsu Province)
+About some tasks in NIIT(China)
